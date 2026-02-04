@@ -1,3 +1,0 @@
-git add main.py
-git commit -m "Added main.py with first print statement"
-git push origin main
